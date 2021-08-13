@@ -1,0 +1,6 @@
+[submodule "ECU_cluster"]
+	path = ECU_cluster
+	url = git@github.com:manopavi/ECU_cluster.git
+[submodule "Infotainment"]
+	path = Infotainment
+	url = git@github.com:manopavi/Infotainment.git
