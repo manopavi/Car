@@ -10,8 +10,8 @@ To find the Volume of a cuboid.
 
 """
 
-def _volume_of_cuboid(_l):
-    return _l*_l*_l
+def _volume_of_cuboid(l):
+    return (l*l*l)
 
 def _add(_l):
     return _l+_l
